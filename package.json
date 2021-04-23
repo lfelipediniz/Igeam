@@ -1,0 +1,24 @@
+{
+  "name": "igeam",
+  "version": "1.0.0",
+  "description": "simple and easy to use application to edit multiple images at once",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^12.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfelipediniz/Igeam.git"
+  },
+  "author": "LFDC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfelipediniz/Igeam/issues"
+  },
+  "homepage": "https://github.com/lfelipediniz/Igeam#readme"
+}
