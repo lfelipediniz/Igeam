@@ -1,0 +1,34 @@
+# dependencies
+/node_modules
+
+# production
+/dist
+
+# local env files
+.env
+.env.*.local
+
+# vite cache
+/.vite
+
+# local build outputs
+/.cache
+/.parcel-cache
+/.turbo
+
+# vscode settings
+.vscode/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# if using Linux and not tracking OS-specific files
+*.swp
+node_modules/
